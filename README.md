@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Sadat Shams Chowdhury 
 
 <!--
 **shamsow/shamsow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Sadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamsow&show_icons=true&count_private=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=shamsow&layout=compact&count_private=true&langs_count=10
+
+> I'm a CS sophomore studying at KAIST in South Korea with a particular interest in `web development`
+> 
+> Find more about me on [LinkedIn](https://www.linkedin.com/in/sadat-shams-chowdhury/)
