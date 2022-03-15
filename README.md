@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Sadat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamsow&show_icons=true&count_private=true)
-https://github-readme-stats.vercel.app/api/top-langs/?username=shamsow&layout=compact&count_private=true&langs_count=10
+<br/>
+![Sadat's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsow&layout=compact&count_private=true&langs_count=10)
 
 > I'm a CS sophomore studying at KAIST in South Korea with a particular interest in `web development`
 > 
